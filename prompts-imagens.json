@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hero-pets.webp",
+    "prompt": "Use case: ads-marketing. Asset type: photorealistic website hero image, right column of Brazilian premium pet shop landing page. Primary request: a friendly adult golden retriever sitting beside a small shorthaired brown tabby cat. Both animals looking toward the camera, dog has a happy natural expression, cat calm and curious. Whole bodies and paws visible, close together with the cat on the right slightly in front of the dog. Warm soft studio lighting, exceptionally realistic soft fur texture, high-end commercial pet photography. The pair fills a nearly square image with generous margin around heads and paws. Genuine transparent background, clean cutout, subtle contact shadow only; no props, no lettering, no logos, no collars, no borders. Website behind this image is rich royal blue with a yellow circle. Animals must appear beautiful and natural, not cartoons. Do not create the website itself."
+  },
+  {
+    "file": "food-dog.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: an upright premium matte royal blue dog food bag, a golden retriever portrait printed on the front, warm yellow lower section, simple fictional Portuguese packaging text \"CÃES ADULTOS\" and \"FRANGO\", no brand names. Beside the bag a small pile of dry brown kibble. Centered 3/4 front view isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce product photography. Object fully visible with generous 15 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. This is a fictional illustrative product, not an existing brand."
+  },
+  {
+    "file": "food-cat.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: an upright premium matte teal green cat food bag, a tabby cat portrait printed on front, pale mint lower section, simple fictional Portuguese packaging text \"GATOS ADULTOS\" and \"SALMÃO\", no brand names. Beside the bag a small pile of dry cat kibble. Centered 3/4 front view isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce product photography. Object fully visible with generous 15 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. This is a fictional illustrative product, not an existing brand."
+  },
+  {
+    "file": "snacks.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: a small upright premium orange and ivory resealable treat pouch with a tiny clear window showing brown dog biscuits, simple fictional Portuguese packaging text \"PETISCOS\" and \"CARINHO EM CADA MORDIDA\", no brand names. Three small bone shaped treats in front. Centered 3/4 front view isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce product photography. Object fully visible with generous 15 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. This is a fictional illustrative product, not an existing brand."
+  },
+  {
+    "file": "shampoo.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: a premium cylindrical light lavender pet shampoo bottle with a royal blue cap, minimal label with a small line drawing of a dog and simple Portuguese text \"SHAMPOO PET\", subtle lavender flower at the base, no brand. Centered isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce photography. Whole object fully visible with generous 18 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. Fictional illustrative product."
+  },
+  {
+    "file": "toy.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: one high quality knotted cotton rope dog chew toy with thick woven threads in mustard yellow and rich royal blue, laid diagonally, both knotted ends and soft tassels fully visible. Centered isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce photography. Whole object fully visible with generous 18 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. Fictional illustrative product."
+  },
+  {
+    "file": "bowl.webp",
+    "prompt": "Use case: product-mockup. Asset type: single product photograph for a pet shop demo catalog. Primary request: one beautiful deep royal blue ceramic pet feeding bowl, thick rim, a small debossed paw on the front, 3/4 angle showing its cream inner surface, empty bowl. Centered isolated on pure white #ffffff background, square 1024x1024 image, soft small grounding shadow, realistic material texture, professional ecommerce photography. Whole object fully visible with generous 18 percent whitespace on all sides. No extra objects except those requested, no logos, no watermarks, no prices. Fictional illustrative product."
+  }
+]
